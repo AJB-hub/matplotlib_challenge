@@ -1,4 +1,5 @@
-# Matplotlib Homework - The Power of Plots
+# Matplotlib_Challenge
+
 
 ## Background
 
