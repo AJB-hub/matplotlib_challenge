@@ -7,7 +7,7 @@ In this mock study, 249 mice identified with SCC tumor growth were treated throu
 
 ## Observations and Conclusions
 
-* The Average Tumor Vol vs Mouse Weight in the Capomulin regimen has a direct correlation with a correlation coeficcient of 0.84, making this a drug regimen worth investigating further. 
+* The Average Tumor Vol vs Mouse Weight in the Capomulin regimen has a direct correlation with a correlation coefficient of 0.84, making this a drug regimen worth investigating further. 
 <img src='./Pymaceuticals/figures/fig3.svg'></img>
 * Capomulin and Ramicane have the lowest range of final tumor volume after completing observations on the mouse. Based on the box and wisker plot of the data, further investigation of these drugs is warranted. Additionally, Capomulin reduced the average tumor size for all mice over a testing period.
 <img src='./Pymaceuticals/figures/fig1.svg'></img>
